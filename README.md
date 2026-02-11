@@ -15,7 +15,7 @@ Hi I'm Bhuvigna Reddy A T<br>2nd year CSE student @PES University <br>My areas o
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhuviiiii-prog&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Bhuviiiii-prog/Bhuviiiii-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
