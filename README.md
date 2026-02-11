@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Bhuvigna Reddy A T<br>2nd year CSE student @PES University <br>My areas of interest have been in Web development ( MERN stack ) and Cybersecurity   <br>I'm currently exploring ,Computer Networks and  Operating systems (Linux), with a interest in understanding low-level system behavior <br><br>
+Hi I'm Bhuvigna Reddy A T<br>2nd year CSE student @PES University <br>My areas of interest have been in Web development ( MERN stack ) and Cybersecurity   <br>I'm currently exploring Computer Networks and Operating systems (Linux), with a interest in understanding low-level system behavior <br><br>
 
 
 ## 🌐 Socials:
